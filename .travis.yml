@@ -1,5 +1,9 @@
 sudo: false
 
+arch:
+  - AMD64
+  - ppc64le
+
 dist: xenial
 
 language: java
